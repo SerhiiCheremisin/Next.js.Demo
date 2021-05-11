@@ -1,0 +1,29 @@
+.usersWrapper{
+  padding-top: 10rem;
+  padding-bottom: 5rem;
+
+
+  .userBlock{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 10% 2rem 10%;
+    background-color: #7f7c7c;
+    border-left: 3px solid red;
+    border-bottom: 3px solid #0088ff;
+    transition: .5s ease;
+    &:hover{
+      cursor: pointer;
+      background-color: #0088ff;
+    }
+    span{
+      display: flex;
+      font-size: 2rem;
+      padding: 0 1rem;
+    }
+  }
+
+}
+
+
+

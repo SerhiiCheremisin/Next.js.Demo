@@ -1,0 +1,9 @@
+.userInfo {
+  display: flex;
+  justify-content: center;
+}
+.userInfo h2 {
+  margin-top: 2rem;
+}
+
+/*# sourceMappingURL=UserPage.module.css.map */

@@ -1,0 +1,30 @@
+.homeWrapper {
+  display: flex;
+  justify-content: center;
+  .main{
+
+    h1{
+      display:flex;
+      justify-content:space-around;
+      font-size: 3rem;
+    }
+    span{
+      font-size: 2.5rem;
+    }
+   button{
+     display: flex;
+     background-color: #0073ff;
+     margin-top: 3rem;
+     margin-left: 48%;
+     font-size: 2rem;
+     &:hover{
+      cursor: pointer;
+      background-color: #0088ff;
+   }
+
+   }
+
+    }
+
+  }
+
