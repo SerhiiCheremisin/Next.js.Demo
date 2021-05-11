@@ -6,7 +6,7 @@ const Footer = () => {
     return(
         <div>
           <footer>
-        <span>Github source code </span>
+        <span>Github source code https://github.com/SerhiiCheremisin/Next.js.Demo </span>
 
           </footer>
 
